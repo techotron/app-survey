@@ -1,2 +1,2 @@
 # app-survey
-Application Survey
+Monorepo with frontend and backend applications
