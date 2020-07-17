@@ -6,3 +6,5 @@ services:
     build: webapp/.
     ports:
       - 80:80
+  webappts:
+    build: webapp-ts/.
